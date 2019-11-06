@@ -1,0 +1,17 @@
+[
+ {
+  "page": "https://labjack.com/admin/index",
+  "statusCode": 403,
+  "accessDenied": 2221
+ },
+ {
+  "page": "https://labjack.com/admin_menu/flush-cache?token=zf6sHgfwfmW4Jt1y8kg0C_ti1c9nOmnxnDKtE3W5290&amp;destination=admin/content/referenceables",
+  "statusCode": 403,
+  "accessDenied": 2221
+ },
+ {
+  "page": "https://labjack.com/admin_menu/flush-cache/admin_menu?token=0f4fp4rYCdCFgrmNvDvmaEunbWJq5VBp4KhLWa_kbXo&amp;destination=admin/content/referenceables",
+  "statusCode": 403,
+  "accessDenied": 2221
+ }
+]
